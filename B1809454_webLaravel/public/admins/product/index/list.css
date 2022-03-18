@@ -1,0 +1,31 @@
+.image_150_100{
+	width: 150px;
+	height: 100px;
+	object-fit: cover;
+}
+
+th {
+    color: #890950;
+    background: #9aaab9;
+}
+h4.tieude {
+    text-align: center;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    color: #890950;
+}
+
+td {
+    font-size: 16px;
+}
+.col-md-10 {
+    margin-left: 90px;
+}
+a.nav-link {
+    font-size: 18px;
+}
+
+a.d-block {
+    font-size: 18px;
+}
+

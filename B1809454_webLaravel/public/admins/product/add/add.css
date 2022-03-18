@@ -1,0 +1,21 @@
+.select2-selection__choice {
+    background-color: #4f7363 !important;
+}
+
+.image_detail{
+    width: 130px;
+    height: 100px;
+    object-fit: cover;
+    margin-bottom: 10px;
+}
+
+.container-image-detail{
+    margin-top: 20px;
+}
+.alert-danger, .alert-error, .bg-danger {
+    margin-top: 10px;
+    padding: 3px 5px;
+    background-color: #b796d5 !important;
+    color: #bd0a0a !important;
+}
+
